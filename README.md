@@ -1,6 +1,6 @@
 # DistributriceCafe
-Travail pratique 1 : simulation d’une distributrice de café en Java
-# Distributrice de Café - TRAVAIL PRATIQUE 1 
+Travail devDisX : simulation d’une distributrice de café en Java
+# Distributrice de Café - Projet devDisX
 Ce projet est une simulation d’une distributrice de café en Java, réalisée pour le cours INF1120. Il permet de :
 - Commander un café (Colombien, Français, Maison) avec sucre/lait.
 - Gérer les paiements et rendre la monnaie.
